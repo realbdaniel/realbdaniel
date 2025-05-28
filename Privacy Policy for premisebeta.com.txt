@@ -1,0 +1,56 @@
+Privacy Policy for premisebeta.com
+Effective Date: May 27, 2025
+
+Welcome to premisebeta.com ("the App"). This Privacy Policy explains how Pelican Point Software ("we," "us," or "our") collects, uses, discloses, and protects your information when you use our App. By using premisebeta.com, you agree to the terms outlined in this policy.
+
+1. Information We Collect
+We may collect the following types of information:
+
+Personal Information: When you register or interact with the App, we may collect your name, email address, and other information you voluntarily provide.
+Usage Data: We collect information about how you use the App, such as pages visited, features used, and time spent on the App.
+Device Information: We may collect details about your device, including IP address, browser type, operating system, and device identifiers.
+Cookies and Tracking Technologies: We use cookies and similar technologies to enhance your experience, analyze usage, and deliver personalized content.
+2. How We Use Your Information
+We use your information to:
+
+Provide, operate, and improve the App.
+Personalize your experience and deliver relevant content.
+Communicate with you, including sending updates or responding to inquiries.
+Analyze usage trends and optimize App performance.
+Comply with legal obligations and protect our rights.
+3. Sharing Your Information
+We do not sell your personal information. We may share your information with:
+
+Service Providers: Third parties that provide services such as hosting, analytics, or customer support.
+Legal Authorities: When required by law or to protect the safety, rights, or property of our users or ourselves.
+Business Transfers: In connection with a merger, acquisition, or sale of assets.
+4. Data Security
+We implement reasonable technical and organizational measures to protect your information. However, no system is completely secure, and we cannot guarantee absolute security.
+
+5. Your Choices and Rights
+You may have certain rights regarding your personal information, depending on your jurisdiction, including:
+
+Access: Request a copy of the personal information we hold about you.
+Correction: Request corrections to inaccurate or incomplete information.
+Deletion: Request deletion of your personal information, subject to legal obligations.
+Opt-Out: Opt out of certain data collection, such as cookies, through your browser settings or by contacting us.
+To exercise these rights, contact us at [Your Contact Email].
+
+6. Third-Party Services
+The App may contain links to third-party websites or services. We are not responsible for their privacy practices. We encourage you to review their privacy policies.
+
+7. Children's Privacy
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us to request deletion.
+
+8. International Data Transfers
+Your information may be transferred to and processed in countries other than your own, where data protection laws may differ. We take steps to ensure adequate protections are in place.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of significant changes by posting the updated policy on the App or through other communication channels.
+
+10. Contact Us
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+Pelican Point Software
+pelicanpoint.software
+realbdaniel@gmail.com
